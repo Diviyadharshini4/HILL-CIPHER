@@ -5,7 +5,7 @@ EX. NO: 3 AIM:
 # REG NO: 212224040080
  
 
-IMPLEMENTATION OF HILL CIPHER
+# IMPLEMENTATION OF HILL CIPHER
  
 ## To write a C program to implement the hill cipher substitution techniques.
 
